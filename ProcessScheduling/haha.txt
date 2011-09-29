@@ -1,0 +1,14 @@
+ProcessSchedulerFile
+defaultJob 0 10 1 0 0
+Job87 15 76 1 0 0
+Job92 9 41 2 0 0
+Job64 10 79 1 0 0
+Job72 3 36 0 10 0
+Job46 2 23 1 0 0
+Job222 11 89 1 1 0
+Job93 2 49 2 1 0
+Job35 16 32 2 1 0
+Job52 15 87 FCFS 0 0
+jobewan 3 15 RR 3 0
+job2we 15 4 SJF 10 0
+jobad 40 30 FCFS 4 0
